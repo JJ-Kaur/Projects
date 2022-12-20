@@ -1,9 +1,11 @@
 # Projects
 Includes different projects completed by me.
 
->Let's see what happens?
+- Point 1
+- Point 2
 
-__
+___ (3underscores)
 
-- Hi
-- is this
+```
+print('Hello World')
+```
