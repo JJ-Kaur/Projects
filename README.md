@@ -2,7 +2,7 @@
 
 ## Here is the list of all projects
 
-- [EDA](http://https://github.com/JJ-Kaur/Projects/tree/main/EDA%20and%20Storytelling "EDA")
+- [EDA](https://github.com/JJ-Kaur/Projects/tree/main/EDA%20and%20Storytelling "EDA")
 - Finance
 - Accounting
 - Energy
